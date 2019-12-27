@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+
+<svg>
+<metadata>
+Created by webfont
+</metadata>
+<defs>
+
+<font id="zcool-gdh" horiz-adv-x="1080" vert-adv-y="1080" >
+  <font-face
+    
+    font-family="zcool-gdh"
+    
+    font-weight="400"
+    
+    font-stretch="normal"
+    
+    units-per-em="1000"
+    
+    ascent="860"
+    
+    descent="-141"
+    
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="uni44" unicode="&#x44;" d="M742 126L663 45L40 45L40 620L542 620L471 541L240 541L240 122L542 122L542 620L670 620L742 545L742 126Z"  horiz-adv-x="782" vert-adv-y="1000"  />
+
+    
+    <glyph glyph-name="uni61" unicode="&#x61;" d="M606 46L40 46L40 450L410 450L364 381L229 381L229 113L410 113L410 450L594 450L594 113L652 113L606 46Z"  horiz-adv-x="692" vert-adv-y="1000"  />
+
+    
+    <glyph glyph-name="uni62" unicode="&#x62;" d="M357 376L231 376L231 118L421 118L421 450L612 450L612 46L40 46L40 621L231 621L231 450L421 450L357 376Z"  horiz-adv-x="652" vert-adv-y="1000"  />
+
+    
+    <glyph glyph-name="uni63" unicode="&#x63;" d="M40 46L40 450L607 450L572 378L232 378L232 118L605 118L565 46L40 46Z"  horiz-adv-x="647" vert-adv-y="1000"  />
+
+    
+    <glyph glyph-name="uni68" unicode="&#x68;" d="M608 46L414 46L414 450L608 450L608 46M233 378L233 46L40 46L40 621L233 621L233 450L414 450L352 378L233 378Z"  horiz-adv-x="648" vert-adv-y="1000"  />
+
+    
+    <glyph glyph-name="uni69" unicode="&#x69;" d="M40 621L233 621L233 497L40 497L40 621M233 46L40 46L40 450L233 450L233 46Z"  horiz-adv-x="273" vert-adv-y="1000"  />
+
+    
+    <glyph glyph-name="uni6e" unicode="&#x6e;" d="M612 48L421 48L421 451L612 451L612 48M233 379L233 48L40 48L40 451L421 451L354 379L233 379Z"  horiz-adv-x="652" vert-adv-y="1000"  />
+
+    
+    <glyph glyph-name="uni73" unicode="&#x73;" d="M624 449L582 377L235 377L235 286L414 286L351 212L40 212L40 449L624 449M605 46L42 46L42 116L414 116L414 286L605 286L605 46Z"  horiz-adv-x="664" vert-adv-y="1000"  />
+
+    
+
+  </font>
+</defs></svg>

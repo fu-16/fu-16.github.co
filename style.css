@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'webfont';
+    font-display: swap;
+    src: url('webfont/webfont.eot'); /* IE9 */
+    src: url('webfont/webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('webfont/webfont.woff2') format('woff2'),
+    url('webfont/webfont.woff') format('woff'), /* chrome、firefox */
+    url('webfont/webfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('webfont/webfont.svg#webfont') format('svg'); /* iOS 4.1- */
+}
+
+.web-font {
+    font-family: "webfont" !important;
+    font-size: 80px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: white;
+}
+
+.m{
+	background-color: gray;
+}
+
+.m nav{
+	height: 150px;
+	background-color: gray;
+	margin-bottom: 150px;
+}
+
+.page-header{
+	background-color: #383838;
+	padding-left:55%;
+}
+.page-header small{
+	color: dimgray;
+	font-size: 40px;
+}
+
+.navbar-brand img{
+	width: 100px;
+	line-height: 150px;
+}
+
+.container-fluid {
+	background-color: #202020;
+	line-height: 150px;
+}
+
+.container-fluid button{
+	width: 100px;
+	height: 50px;
+	font-size: 20px;
+}
+
+#carousel-example-generic{
+	width: 600px;
+	text-align: center;
+}
+
+.row{
+	padding-top: 150px;
+	background-color: gray;
+}
+
+.foot{
+	background-color: dimgray;
+	color: white;
+	text-align: center;
+	padding:50px 0 50px 0; 
+	width: 100%;
+}
